@@ -1,9 +1,9 @@
 # PyTorch_learning
-This repository will be a proof that I am learning about PyTorch
+This repository will be a proof that I am learning about PyTorch<br>
 
-1_1 This notebook consists of :
-a)Basic GPU Availability commands
-b)Importing Torch library for PyTorch
-c)Introduction to Tensors:-
-  1)Vectors , Matrix and Tensors
-  2) .size , .ndim , .shape
+1_1 This notebook consists of : <br>
+a)Basic GPU Availability commands<br>
+b)Importing Torch library for PyTorch<br>
+c)Introduction to Tensors:-<br>
+  1)Vectors , Matrix and Tensors<br>
+  2) .size , .ndim , .shape<br>
