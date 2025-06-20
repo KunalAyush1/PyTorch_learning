@@ -23,5 +23,16 @@ _f)Tensor Operations and Transpose ( + , - , * , / ) and Tensor Multiplication u
 *b)Positional min and max(argmin and argmax)* <br>
 *c)Reshaping , stacking , squeezing and Unsqueezing* <br>
 *d)Permuting and Indexing* <br>
+<br>
+<br>
+**1_4** This notebook consists of : <br>
+*a)Tensors to NumPy arrays and vice-versa*<br>
+*b)Reproducibility and Random seeds*<br>
+*c)Getting GPU access*<br>
+*d)Setting Up Agnostic Code*<br>
+*e)Putting Tensors on GPU from CPU and vice-versa*<br>
+
+
+
 
 
