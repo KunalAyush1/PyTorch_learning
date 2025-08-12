@@ -31,6 +31,11 @@ _f)Tensor Operations and Transpose ( + , - , * , / ) and Tensor Multiplication u
 *c)Getting GPU access*<br>
 *d)Setting Up Agnostic Code*<br>
 *e)Putting Tensors on GPU from CPU and vice-versa*<br>
+<br>
+<br>
+**1_5** This notebook consists of : <br>
+*a)PyTorch Workflow*<br>
+*b)Saving and loading PyTorch Models*<br>
 
 
 
