@@ -36,6 +36,11 @@ _f)Tensor Operations and Transpose ( + , - , * , / ) and Tensor Multiplication u
 **1_5** This notebook consists of : <br>
 *a)PyTorch Workflow*<br>
 *b)Saving and loading PyTorch Models*<br>
+<br>
+<br>
+**1_6** This notebook consists of : <br>
+*a)Classification with PyTorch on toy_dataset*<br>
+*b)Introducing Non_linearity in our model to function better*<br>
 
 
 
