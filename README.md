@@ -41,6 +41,11 @@ _f)Tensor Operations and Transpose ( + , - , * , / ) and Tensor Multiplication u
 **1_6** This notebook consists of : <br>
 *a)Classification with PyTorch on toy_dataset*<br>
 *b)Introducing Non_linearity in our model to function better*<br>
+<br>
+<br>
+**1_7** This notebook consists of : <br>
+*a)MultiClass Classification*<br>
+*b)Important Evaluation Metrics and their implementation through PyTorch*<br>
 
 
 
