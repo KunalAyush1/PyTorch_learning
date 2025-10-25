@@ -46,6 +46,13 @@ _f)Tensor Operations and Transpose ( + , - , * , / ) and Tensor Multiplication u
 **1_7** This notebook consists of : <br>
 *a)MultiClass Classification*<br>
 *b)Important Evaluation Metrics and their implementation through PyTorch*<br>
+<br>
+<br>
+**1_8** This notebook consists of : <br>
+*a)Working with PyTorch in ComputerVision*<br>
+*b)CNN architecture(simple VGG)*<br>
+<br>
+<br>
 
 
 
