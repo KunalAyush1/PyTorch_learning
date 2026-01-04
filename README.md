@@ -53,6 +53,9 @@ _f)Tensor Operations and Transpose ( + , - , * , / ) and Tensor Multiplication u
 *b)CNN architecture(simple VGG)*<br>
 <br>
 <br>
+**1_9** This notebook consists of : <br>
+*a)Working with Custom datasets*<br>
+*b)CNN architecture(simple VGG) on custom datasets*<br>
 
 
 
